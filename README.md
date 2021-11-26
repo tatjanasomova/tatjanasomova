@@ -6,11 +6,11 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=tatjanasomova)
 
-I am an Architectural Engineer and Computational Designer. I love learning new technology and apply it to varies projects. In my free time I learn programming, photography, paint, CNC and 3D print. I also enjoy traveling, going on a hike, for a climb or jump into the waves 🏄
+I am an Architectural Engineer and Computational Designer. I love learning new technology and apply it to varies projects. In my free time I learn programming, photography, paint, CNC and 3D print. I also enjoy traveling, going on a hike, for a climb or jump into the waves. 🏄
 
 As a computational designer, I enjoy using my obsession with new technology and apply what I learn on the projects. I like to make things that make a difference, and help me to develop new skills to expand my technical knowledge. 
 
-<img align="right" alt="GIF" src="https://github.com/tatjanasomova/tatjanasomova/blob/main/coding_cat.gifraw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/tatjanasomova/tatjanasomova/blob/main/coding_cat.gif?raw=true" height="270" />
 
 **Talking about Personal Stuffs:**
 
