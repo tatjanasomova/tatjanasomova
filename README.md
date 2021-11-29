@@ -14,7 +14,7 @@ As a computational designer, I enjoy using my obsession with new technology and 
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently working on one of my cool [projects](https://tatjanasomova.github.io/som-projects)
+- 🌱 I’m currently working on one of my cool [projects](https://tatjanasomova.github.io/my-projects)
 - 🚀 I’m learning Python, Jekyll, [C#, Unity](https://learning.edx.org/course/course-v1:HarvardX+CS50G+Games/home) and [Speckle](https://www.youtube.com/embed/4hJwZo3p4_U)
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: tatjana.somova@mottmac.com;
