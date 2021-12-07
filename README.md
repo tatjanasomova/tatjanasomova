@@ -28,7 +28,7 @@ As a computational designer, I enjoy using my obsession with new technology and 
 </p>
 
 <h2>
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  My Github Stats
 </h2>
 </br>
 
