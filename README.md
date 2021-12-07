@@ -10,7 +10,7 @@ I am an Architectural Engineer and Computational Designer. I love learning new t
 
 As a computational designer, I enjoy using my obsession with new technology and apply what I learn on the projects. I like to make things that make a difference, and help me to develop new skills to expand my technical knowledge. 
 
-<img align="right" alt="GIF" src="https://github.com/tatjanasomova/tatjanasomova/blob/main/coding_cat.gif?raw=true" height="270" />
+<img align="right" alt="GIF" src="images/coding_cat.gif?raw=true" height="270" />
 
 **Talking about Personal Stuffs:**
 
@@ -20,14 +20,14 @@ As a computational designer, I enjoy using my obsession with new technology and 
 - 📫 How to reach me: tatjana.somova@mottmac.com;
 </br>
 
-<h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+<h2>
+  My Contribution Graph 
 </h2>
-<p align="center">
+<p>
   <img src="https://github.com/tatjanasomova/tatjanasomova/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-<h2 align="center">
+<h2>
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
 </br>
