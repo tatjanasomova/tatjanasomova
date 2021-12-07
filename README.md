@@ -24,7 +24,7 @@ As a computational designer, I enjoy using my obsession with new technology and 
   My Contribution Graph 
 </h2>
 <p>
-  <img src="https://github.com/tatjanasomova/tatjanasomova/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/tatjanasomova/tatjanasomova/raw/output/github-snake.svg" alt="snake"></center>
 </p>
 
 <h2>
