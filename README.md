@@ -1,4 +1,5 @@
 ### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Tanya Somova</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img align="right" alt="GIF" src="images/coding_cat.gif?raw=true" height="270" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tatjana-somova)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://tatjanasomova.github.io/my_projects)
@@ -9,8 +10,6 @@
 I am an Architectural Engineer and Computational Designer. I love learning new technology and apply it to varies projects. In my free time I learn programming, photography, paint, CNC and 3D print. I also enjoy traveling, going on a hike, for a climb or jump into the waves. 🏄
 
 As a computational designer, I enjoy using my obsession with new technology and apply what I learn on the projects. I like to make things that make a difference, and help me to develop new skills to expand my technical knowledge. 
-
-<img align="right" alt="GIF" src="images/coding_cat.gif?raw=true" height="270" />
 
 **Talking about Personal Stuffs:**
 
