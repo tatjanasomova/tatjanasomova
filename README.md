@@ -19,18 +19,6 @@ As a computational designer, I enjoy using my obsession with new technology and 
 - 📫 How to reach me: tatjana.somova@mottmac.com;
 </br>
 
-<h2>
-  My Contribution Graph 
-</h2>
-<p>
-  <img src="https://github.com/tatjanasomova/tatjanasomova/raw/output/github-snake.svg" alt="snake"></center>
-</p>
-
-<h2>
-  My Github Stats
-</h2>
-</br>
-
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
