@@ -18,6 +18,13 @@ As a computational designer, I enjoy using my obsession with new technology and 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: tatjana.somova@mottmac.com;
 </br>
+<h2>
+  My Contribution Graph 
+</h2>
+<h2>
+  My Github Stats
+</h2>
+</br>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
